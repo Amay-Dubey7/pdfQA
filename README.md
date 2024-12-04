@@ -46,4 +46,13 @@ To make the solution modular, scalable, and production-grade, the following prac
 - **Version Control and Documentation**:
   - Document API usage and maintain versioning for compatibility with different system configurations and easier updates.
 
+Example Usage:
+
+What is the name of the company?
+![PDF Processing Example](./images/ques1.png)
+
+
+What is their vacation policy?
+![PDF Processing Example](./images/ques2.png)
+
 ---
